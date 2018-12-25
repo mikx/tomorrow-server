@@ -17,6 +17,7 @@ Lets go tomorrow
 ### Profile
 1. Location
 2. Interests
+3. How much to expose (First Name -- Last Initial -- Full -- Etc. -- )
 
 ## Guide / operator
 
@@ -24,8 +25,53 @@ Lets go tomorrow
 
 ### Feel for an interest
 
+### Payment / Advance / Tips
+
+### Trip log
+Trip report
+Monthly review
+
+
 
 ## Client-Guide Interaction
+
+### Reserve your spot
+Potential trip available (accept/tentative/decline)
+Trip is on (reserve/decline)
+Trip is full (waitlist)
+
+### Getting ready
+Broadcast messages
+Location
+Chat
+
+### On a trip
+Pictures
+Catch report
+What was working and what was not (no location)
+Etc.
+
+### After the trip
+Review
+Notes
+Friends / Connections
+
+
+
+## Community
+
+Keep in touch -- direct chat
+Schedule shared trips together
+Tip each other on the new opportunities (a'la Facebook feed)
+
+
+
+
+
+
+
+
+
 
 
 
